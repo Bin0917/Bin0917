@@ -1,8 +1,8 @@
 <h1 align="center">Welcome!! </h1>
 
 <p align="center">
-  💻 I'm in military <br/>
-  🌱 I'm currently learning Django for Open API☁️<br/>
+  💻 -군복무중입니다!- <br/>
+  🌱 프론트로 시작한 주니어 백엔드 개발자입니다! OpneAPI 에 많은 관심이 있어요!<br/>
   📫 Contact : leesd132@naver.com
 </p>
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🏅 Baekjoon Tier (During military service)
+## 🏅 Baekjoon Tier
 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shfur132" />
