@@ -1,7 +1,6 @@
 <h1 align="center">Welcome!! </h1>
 
 <p align="center">
-  💻 -군복무중입니다!- <br/>
   🌱 프론트로 시작한 주니어 백엔드 개발자입니다! OpneAPI 에 많은 관심이 있어요!<br/>
   📫 Contact : leesd132@naver.com
 </p>
