@@ -1,7 +1,7 @@
 <h1 align="center">Welcome!! </h1>
 
 <p align="center">
-  🌱 프론트로 시작한 주니어 백엔드 개발자입니다!<br/>
+  🌱 프론트로 시작한 주니어 풀스택 개발자입니다!<br/>
   📫 Contact : leesd132@naver.com
 </p>
 
