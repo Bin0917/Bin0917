@@ -35,15 +35,15 @@
 <br/>
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td align="center" width="50%">
         <h3>📊 GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=Bin0917&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Bin0917&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
       </td>
       <td align="center" width="50%">
         <h3>⚡ Top Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin0917&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin0917&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
       </td>
     </tr>
   </table>
