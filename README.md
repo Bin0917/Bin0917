@@ -4,7 +4,6 @@
 
 <div align="center">
   <h2>🚀 Junior Full-Stack Developer</h2>
-  <p><b>"프론트엔드의 섬세함과 백엔드의 견고함을 연결하는 개발자입니다."</b></p>
 </div>
 
 <br/>
