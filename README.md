@@ -7,14 +7,18 @@
   <h2>🚀 Junior Full-Stack Developer</h2>
   
   <p>
-    안녕하세요! 더 나은 사용자 경험과 견고한 시스템 설계를 고민하는 개발자 <b>Seunghwan</b>입니다.
+    안녕하세요! 더 나은 사용자 경험과 견고한 시스템 설계를 고민하는 개발자 <b>Bin</b>입니다.
   </p>
 
   <br/>
 
-  <!-- GitHub Stats Overview -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Bin0917&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin0917&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
+  <!-- GitHub Stats Overview (수정된 안정적인 API) -->
+  <a href="https://github.com/Bin0917">
+    <img src="https://github-readme-stats.vercel.app/api?username=Bin0917&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Bin0917">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin0917&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  </a>
 
 </div>
 
