@@ -1,56 +1,74 @@
 <div align="center">
   <!-- Header Animated Hello -->
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
-
-  <br/><br/>
-
-  <h2>🚀 Junior Full-Stack Developer</h2>
-  
-  <p>
-    안녕하세요! 더 나은 사용자 경험과 견고한 시스템 설계를 고민하는 개발자 <b>Bin</b>입니다.
-  </p>
-
-  <br/>
-
-  <!-- GitHub Stats Overview (수정된 안정적인 API) -->
-  <a href="https://github.com/Bin0917">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bin0917&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Bin0917">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin0917&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-  </a>
-
 </div>
 
+<br/><br/>
+
+<!-- Profile & Night Chill Section -->
+<table align="center" width="100%">
+  <tr>
+    <td align="left" valign="middle" width="55%">
+      <h2>🚀 Junior Full-Stack Developer</h2>
+      <p>
+        안녕하세요! 더 나은 사용자 경험과 견고한 시스템 설계를 고민하는 개발자 <b>Bin</b>입니다.
+      </p>
+      <br/>
+      <p>
+        🌱 <b>Interest</b>: Web Architecture, Fintech, Clean Code<br/>
+        💡 <b>Motto</b>: 꾸준한 기록과 성장을 지향합니다.
+      </p>
+    </td>
+    <td align="center" valign="middle" width="45%">
+      <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%" alt="Night Chill" style="border-radius: 10px;">
+    </td>
+  </tr>
+</table>
+
 <br/>
 <br/>
 
-<!-- Technical Arsenal -->
+<!-- Technical Arsenal (Table Layout) -->
 <div align="center">
   <h3>🛠 Technical Arsenal</h3>
   <br/>
 
-  <!-- Frontend -->
-  <p><b>Frontend</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,js,tailwind,html,css" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Backend & Database -->
-  <p><b>Backend & Database</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,prisma" />
-  </a>
-
-  <br/><br/>
-
-  <!-- DevOps & Tools -->
-  <p><b>DevOps & Tools</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,vercel,ai" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <b>Frontend</b>
+      </td>
+      <td align="center" width="33%">
+        <b>Backend & Database</b>
+      </td>
+      <td align="center" width="33%">
+        <b>DevOps & Tools</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nextjs,ts,js,tailwind,html,css&perline=3" />
+        </a>
+        <br/><br/>
+      </td>
+      <td align="center" valign="top">
+        <br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,spring,mysql,prisma&perline=2" />
+        </a>
+        <br/><br/>
+      </td>
+      <td align="center" valign="top">
+        <br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=docker,git,vercel,ai&perline=2" />
+        </a>
+        <br/><br/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
