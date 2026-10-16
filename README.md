@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="mailto:leesd132@naver.com"><img src="https://img.shields.io/badge/leesd132@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" /></a>
+  <a href="mailto:leesd365@gmail.com"><img src="https://img.shields.io/badge/leesd365@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
