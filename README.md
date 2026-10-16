@@ -27,7 +27,7 @@
 </p>
 <p align="center">
   <sub><b>AI</b></sub><br/>
-  <img height="40" src="https://skillicons.dev/icons?i=python" /> <img height="40" src="assets/claude.svg" alt="Claude" /> <img height="40" src="assets/antigravity.svg" alt="Antigravity" />
+  <img height="40" src="https://skillicons.dev/icons?i=python" /> <img height="40" src="assets/claude.svg" alt="Claude" />
 </p>
 
 <br/>
