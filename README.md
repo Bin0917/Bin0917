@@ -64,6 +64,17 @@
 
 <br/>
 
+<h3 align="center">Problem Solving · Certificates</h3>
+
+<p align="center">
+  <a href="https://solved.ac/profile/shfur132"><img height="130" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=shfur132" alt="solved.ac shfur132" /></a>
+</p>
+<p align="center">
+  <b>SQLD</b> · SQL 개발자 &nbsp;|&nbsp; <b>ADsP</b> · 데이터분석 준전문가
+</p>
+
+<br/>
+
 <h3 align="center">Awards 🏆</h3>
 
 <p align="center">
