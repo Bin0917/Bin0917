@@ -63,10 +63,10 @@
 
 <br/>
 
-<h3 align="center">Awards</h3>
+<h3 align="center">Awards 🏆</h3>
 
 <p align="center">
-  <b>디지털하나로 8기 최종 프로젝트</b> · 우수상 (1등) · Pray for Hana<br/>
-  <b>멋쟁이사자처럼 대학 10기 단풍톤</b> · 최우수상 (2등) · Dear Santa<br/>
-  <b>이니로</b> · 우수상 · 웹스터
+  - <b>디지털하나로 8기 최종 프로젝트</b> · 우수상 (1등) · Pray for Hana<br/>
+  - <b>멋쟁이사자처럼 대학 10기 단풍톤</b> · 최우수상 (2등) · Dear Santa<br/>
+  - <b>이니로</b> · 우수상 · 웹스터
 </p>
