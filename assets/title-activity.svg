@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="70" viewBox="0 0 840 70">
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#00E6A8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00E6A8"/>
+      <stop offset="1" stop-color="#00E6A8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="spark" x1="0" x2="1">
+      <stop offset="0" stop-color="#CFFFF0" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#CFFFF0"/>
+      <stop offset="1" stop-color="#CFFFF0" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-100%" width="140%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip"><rect x="120" y="50" width="600" height="8"/></clipPath>
+    <filter id="soft" x="-10%" y="-400%" width="120%" height="900%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <text x="420" y="32" text-anchor="middle" filter="url(#glow)"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700"
+        letter-spacing="6" fill="#00A88F">OPEN SOURCE · ACTIVITY</text>
+  <rect x="120" y="52" width="600" height="4" fill="url(#line)" filter="url(#soft)" opacity="0.8"/>
+  <rect x="120" y="53" width="600" height="2" rx="1" fill="url(#line)"/>
+  <rect x="-160" y="53" width="160" height="2" fill="url(#spark)" clip-path="url(#clip)">
+    <animate attributeName="x" values="-160;840" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
