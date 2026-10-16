@@ -27,7 +27,7 @@
 </p>
 <p align="center">
   <sub><b>AI</b></sub><br/>
-  <img height="40" src="https://skillicons.dev/icons?i=python" />
+  <img height="40" src="https://skillicons.dev/icons?i=python" /> <img height="40" src="assets/claude.svg" alt="Claude" /> <img height="40" src="assets/antigravity.svg" alt="Antigravity" />
 </p>
 
 <br/>
@@ -66,7 +66,10 @@
 <h3 align="center">Awards 🏆</h3>
 
 <p align="center">
-  - <b>디지털하나로 8기 최종 프로젝트</b> · 우수상 (1등) · Pray for Hana<br/>
-  - <b>멋쟁이사자처럼 대학 10기 단풍톤</b> · 최우수상 (2등) · Dear Santa<br/>
-  - <b>이니로</b> · 우수상 · 웹스터
+  <img src="https://img.shields.io/badge/1ST-00A88F?style=flat-square" /> &nbsp;<b>디지털하나로 8기 최종 프로젝트</b> · 우수상<br/>
+  <sub>Pray for Hana · 2026.04</sub>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/2ND-0B5D4B?style=flat-square" /> &nbsp;<b>멋쟁이사자처럼 대학 10기 단풍톤</b> · 최우수상<br/>
+  <sub>Dear Santa</sub>
 </p>
