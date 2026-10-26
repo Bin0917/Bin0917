@@ -37,8 +37,8 @@
 
 <table width="100%">
   <tr>
-    <th width="30%" align="left">Project</th>
-    <th align="left">Highlights</th>
+    <th width="30%" align="left"><img width="220" height="0" /><br/>Project</th>
+    <th align="left"><img width="560" height="0" /><br/>Highlights</th>
   </tr>
   <tr>
     <td valign="top"><b>Pray for Hana</b><br/><sub>디지털하나로 8기 최종 · 2026.04</sub><br/><sub>우수상 (1등)</sub><br/><br/><a href="https://github.com/PrayForHanaro/Backend">Backend ↗</a> · <a href="https://github.com/PrayForHanaro/Frontend">Frontend ↗</a></td>
