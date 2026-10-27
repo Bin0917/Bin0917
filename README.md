@@ -58,19 +58,14 @@
 
 <h3 align="center">Open Source · Stats</h3>
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/NVIDIA/garak/pulls?q=is%3Apr+author%3ABin0917"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA&repo=garak&border_radius=10&title_color=00E6A8&icon_color=00E6A8&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" /><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA&repo=garak&border_radius=10&title_color=0B5D4B&icon_color=00A88F&text_color=24292f&bg_color=ffffff&border_color=d0d7de" /></picture></a>
-      <sub><b>NVIDIA/garak</b> · 번역 프로브 페이로드 오염 수정 <a href="https://github.com/NVIDIA/garak/pull/2326">#2326</a> (메인테이너 승인)</sub><br/><br/>
-      <a href="https://github.com/data-privacy-stack/presidio/pull/2341"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=data-privacy-stack&repo=presidio&border_radius=10&title_color=00E6A8&icon_color=00E6A8&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" /><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=data-privacy-stack&repo=presidio&border_radius=10&title_color=0B5D4B&icon_color=00A88F&text_color=24292f&bg_color=ffffff&border_color=d0d7de" /></picture></a>
-      <sub><b>presidio</b> · 한국어 컨텍스트 매칭 옵션 <a href="https://github.com/data-privacy-stack/presidio/pull/2341">#2341</a> (리뷰 중)</sub>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Bin0917&show_icons=true&hide=stars%2Cissues&hide_rank=true&card_width=400&border_radius=10&title_color=00E6A8&icon_color=00E6A8&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" /><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Bin0917&show_icons=true&hide=stars%2Cissues&hide_rank=true&card_width=400&border_radius=10&title_color=0B5D4B&icon_color=00A88F&text_color=24292f&bg_color=ffffff&border_color=d0d7de" /></picture>
-    </td>
-  </tr>
-</table>
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Bin0917&show_icons=true&hide=stars%2Cissues&hide_rank=true&card_width=400&border_radius=10&title_color=00E6A8&icon_color=00E6A8&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" /><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=Bin0917&show_icons=true&hide=stars%2Cissues&hide_rank=true&card_width=400&border_radius=10&title_color=0B5D4B&icon_color=00A88F&text_color=24292f&bg_color=ffffff&border_color=d0d7de" /></picture>
+  <a href="https://github.com/NVIDIA/garak/pulls?q=is%3Apr+author%3ABin0917"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA&repo=garak&border_radius=10&title_color=00E6A8&icon_color=00E6A8&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" /><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA&repo=garak&border_radius=10&title_color=0B5D4B&icon_color=00A88F&text_color=24292f&bg_color=ffffff&border_color=d0d7de" /></picture></a>
+  <br/><sub><b>NVIDIA/garak</b> · 번역 프로브 페이로드 오염 수정 <a href="https://github.com/NVIDIA/garak/pull/2326">#2326</a> (메인테이너 승인)</sub><br/><br/>
+  <a href="https://github.com/data-privacy-stack/presidio/pull/2341"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=data-privacy-stack&repo=presidio&border_radius=10&title_color=00E6A8&icon_color=00E6A8&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" /><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=data-privacy-stack&repo=presidio&border_radius=10&title_color=0B5D4B&icon_color=00A88F&text_color=24292f&bg_color=ffffff&border_color=d0d7de" /></picture></a>
+  <br/><sub><b>presidio</b> · 한국어 컨텍스트 매칭 옵션 <a href="https://github.com/data-privacy-stack/presidio/pull/2341">#2341</a> (리뷰 중)</sub>
+</p>
+<br clear="right"/>
 
 <br/>
 
