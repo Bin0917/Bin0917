@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/NVIDIA/garak/pulls?q=is%3Apr+author%3ABin0917+is%3Amerged"><img src="https://img.shields.io/badge/NVIDIA%2Fgarak-Contributor-00A88F?style=flat-square&logo=nvidia&logoColor=white" /></a>
   <a href="mailto:leesd132@naver.com"><img src="https://img.shields.io/badge/leesd132@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" /></a>
   <a href="mailto:leesd365@gmail.com"><img src="https://img.shields.io/badge/leesd365@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
@@ -56,16 +57,14 @@
 
 <br/>
 
-<h3 align="center">Open Source · Stats</h3>
+<h3 align="center">Open Source</h3>
 
-<p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Bin0917&show_icons=true&hide=stars%2Cissues&hide_rank=true&card_width=400&border_radius=10&title_color=00E6A8&icon_color=00E6A8&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" /><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=Bin0917&show_icons=true&hide=stars%2Cissues&hide_rank=true&card_width=400&border_radius=10&title_color=0B5D4B&icon_color=00A88F&text_color=24292f&bg_color=ffffff&border_color=d0d7de" /></picture>
-  <a href="https://github.com/NVIDIA/garak/pulls?q=is%3Apr+author%3ABin0917+is%3Amerged"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA&repo=garak&border_radius=10&title_color=00E6A8&icon_color=00E6A8&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" /><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA&repo=garak&border_radius=10&title_color=0B5D4B&icon_color=00A88F&text_color=24292f&bg_color=ffffff&border_color=d0d7de" /></picture></a>
-  <br/><sub><b>NVIDIA/garak Contributor</b> · LLM 취약점 스캐너 버그 수정 2건 머지: 프롬프트 4배 중복 <a href="https://github.com/NVIDIA/garak/pull/2305">#2305</a>, 번역 프로브 페이로드 오염 <a href="https://github.com/NVIDIA/garak/pull/2326">#2326</a></sub><br/><br/>
-  <a href="https://github.com/data-privacy-stack/presidio/pull/2341"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=data-privacy-stack&repo=presidio&border_radius=10&title_color=00E6A8&icon_color=00E6A8&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" /><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=data-privacy-stack&repo=presidio&border_radius=10&title_color=0B5D4B&icon_color=00A88F&text_color=24292f&bg_color=ffffff&border_color=d0d7de" /></picture></a>
-  <br/><sub><b>presidio</b> · 한국어 컨텍스트 매칭 옵션 <a href="https://github.com/data-privacy-stack/presidio/pull/2341">#2341</a> (리뷰 중)</sub>
-</p>
-<br clear="right"/>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/NVIDIA/garak/pulls?q=is%3Apr+author%3ABin0917"><img src="assets/card-garak.svg" width="100%" alt="NVIDIA/garak Contributor: #2305, #2326 merged" /></a></td>
+    <td width="50%" align="center"><a href="https://github.com/data-privacy-stack/presidio/pull/2341"><img src="assets/card-presidio.svg" width="100%" alt="Presidio: #2341 in review" /></a></td>
+  </tr>
+</table>
 
 <br/>
 
