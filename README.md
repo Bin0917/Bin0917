@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B5D4B,100:00A88F&height=150&text=Bin0917&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=Fintech%20%C2%B7%20AI%20Security&descSize=16&descAlignY=68" width="100%" />
+<img src="assets/name.svg" width="100%" alt="Bin0917 · Fintech · Backend · AI Security" />
 
 <p align="center">
   금융 IT 서비스를 만듭니다.<br/>
@@ -15,10 +15,10 @@
 
 <h3 align="center">Tech Stack</h3>
 
-<p align="center"><sub><b>Backend</b></sub>&nbsp;&nbsp;<img height="30" src="https://skillicons.dev/icons?i=java,spring,kafka" /></p>
-<p align="center"><sub><b>Frontend</b></sub>&nbsp;&nbsp;<img height="30" src="https://skillicons.dev/icons?i=ts,nextjs" /></p>
-<p align="center"><sub><b>Infra · DB</b></sub>&nbsp;&nbsp;<img height="30" src="https://skillicons.dev/icons?i=mysql,aws,docker" /></p>
-<p align="center"><sub><b>AI</b></sub>&nbsp;&nbsp;<img height="30" src="https://skillicons.dev/icons?i=python" /> <img height="30" src="assets/claude.svg" alt="Claude" /></p>
+<p align="center"><sub><b>Backend</b></sub>&nbsp;&nbsp;<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> <img src="https://img.shields.io/badge/apachekafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" /></p>
+<p align="center"><sub><b>Frontend</b></sub>&nbsp;&nbsp;<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" /></p>
+<p align="center"><sub><b>Infra · DB</b></sub>&nbsp;&nbsp;<img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></p>
+<p align="center"><sub><b>AI</b></sub>&nbsp;&nbsp;<img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /></p>
 
 <br/>
 
