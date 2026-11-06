@@ -11,33 +11,31 @@
   <a href="mailto:leesd365@gmail.com"><img src="https://img.shields.io/badge/leesd365@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-## Tech Stack
-
-<hr/>
+## 🧰 Tech Stack
 
 <p align="center">
-  <b>Backend</b><br/>
+  <b>Backend</b><br/><br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=spring&amp;logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/OpenFeign-6DB33F?style=flat-square&amp;logo=spring&amp;logoColor=white" alt="OpenFeign" />
 </p>
 <p align="center">
-  <b>Frontend</b><br/>
+  <b>Frontend</b><br/><br/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&amp;logo=next.js&amp;logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&amp;logo=prisma&amp;logoColor=white" alt="Prisma" />
 </p>
 <p align="center">
-  <b>Infra · DB</b><br/>
+  <b>Infra · DB</b><br/><br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&amp;logo=amazons3&amp;logoColor=white" alt="S3" />
 </p>
 <p align="center">
-  <b>AI · Security</b><br/>
+  <b>AI · Security</b><br/><br/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&amp;logo=python&amp;logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&amp;logo=claude&amp;logoColor=white" alt="Claude" />
@@ -47,9 +45,7 @@
 
 <br/>
 
-## Projects
-
-<hr/>
+## 🚀 Projects
 
 <table width="100%">
   <tr>
@@ -72,9 +68,7 @@
 
 <br/>
 
-## Open Source
-
-<hr/>
+## 🌱 Open Source
 
 <table width="100%">
   <tr>
@@ -85,9 +79,7 @@
 
 <br/>
 
-## Problem Solving · Certificates
-
-<hr/>
+## 🧠 Problem Solving · Certificates
 
 <p align="center">
   <a href="https://solved.ac/profile/shfur132"><img height="130" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=shfur132" alt="solved.ac shfur132" /></a>
@@ -98,9 +90,7 @@
 
 <br/>
 
-## Awards 🏆
-
-<hr/>
+## 🏆 Awards
 
 <p align="center">
   <img src="https://img.shields.io/badge/1ST-00A88F?style=flat-square" /> &nbsp;<b>디지털하나로 8기 최종 프로젝트</b> · 우수상<br/>
