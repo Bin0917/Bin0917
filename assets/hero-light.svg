@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230">
+  <defs>
+    <linearGradient id="g0f" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.78"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.42"/>
+    </linearGradient>
+    <linearGradient id="g0r" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="0.5" stop-color="#D0D7DE" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="g0g" cx="0.2" cy="0" r="0.9">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="g0s" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#1F2328" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect x="14" y="14" width="812" height="202" rx="26" fill="url(#g0f)" filter="url(#g0s)"/>
+  <rect x="14" y="14" width="812" height="202" rx="26" fill="url(#g0g)"/>
+  <rect x="14.75" y="14.75" width="810.5" height="200.5" rx="25.25" fill="none" stroke="url(#g0r)" stroke-width="1.5"/>
+  <path d="M40 15.6 H800" stroke="#FFFFFF" stroke-opacity="1" stroke-width="1.2" stroke-linecap="round"/>
+  <g font-family="-apple-system, 'SF Pro Display', 'Apple SD Gothic Neo', 'Segoe UI', 'Malgun Gothic', 'Noto Sans KR', sans-serif"><text x="54" y="88" font-size="46" font-weight="700" fill="#1F2328" letter-spacing="-1">Bin0917</text><text x="56" y="124" font-size="18" font-weight="400" fill="#1F2328">금융 IT 서비스를 만듭니다.</text><text x="56" y="150" font-size="18" font-weight="400" fill="#1F2328">요즘은 서비스에 들어간 LLM을 안전하게 쓰는 방법에 관심이 많습니다.</text><rect x="56" y="172" width="80" height="27" rx="13.5" fill="#FFFFFF" fill-opacity="0.7" stroke="#D0D7DE" stroke-opacity="1"/><text x="96" y="190.18" font-size="13" font-weight="600" fill="#1F2328" text-anchor="middle">Fintech</text><rect x="144" y="172" width="80" height="27" rx="13.5" fill="#FFFFFF" fill-opacity="0.7" stroke="#D0D7DE" stroke-opacity="1"/><text x="184" y="190.18" font-size="13" font-weight="600" fill="#1F2328" text-anchor="middle">Backend</text><rect x="232" y="172" width="113" height="27" rx="13.5" fill="#FFFFFF" fill-opacity="0.7" stroke="#D0D7DE" stroke-opacity="1"/><text x="288.5" y="190.18" font-size="13" font-weight="600" fill="#1F2328" text-anchor="middle">AI Security</text><text x="786" y="66" font-size="13" font-weight="600" fill="#1F2328" text-anchor="end">NVIDIA/garak Contributor</text><text x="786" y="86" font-size="13" font-weight="400" fill="#59636E" text-anchor="end">SQLD · ADsP</text></g>
+</svg>

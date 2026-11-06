@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="294" viewBox="0 0 840 294">
+  <defs>
+    <linearGradient id="g7f" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.025"/>
+    </linearGradient>
+    <linearGradient id="g7r" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.28"/>
+    </linearGradient>
+    <radialGradient id="g7g" cx="0.2" cy="0" r="0.9">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.099"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="g7s" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <rect x="14" y="14" width="812" height="266" rx="26" fill="url(#g7f)" filter="url(#g7s)"/>
+  <rect x="14" y="14" width="812" height="266" rx="26" fill="url(#g7g)"/>
+  <rect x="14.75" y="14.75" width="810.5" height="264.5" rx="25.25" fill="none" stroke="url(#g7r)" stroke-width="1.5"/>
+  <path d="M40 15.6 H800" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="1.2" stroke-linecap="round"/>
+  <g font-family="-apple-system, 'SF Pro Display', 'Apple SD Gothic Neo', 'Segoe UI', 'Malgun Gothic', 'Noto Sans KR', sans-serif"><text x="46" y="64" font-size="26" font-weight="700" fill="#F0F6FC">아이앞으로</text><text x="46" y="90" font-size="14" font-weight="400" fill="#9198A1">디지털하나로 8기 1차 · 2026.01 · 챗봇, 화면 개발</text><text x="46" y="126" font-size="16" font-weight="600" fill="#F0F6FC">미성년 자녀 증여 플랜 서비스</text><text x="46" y="154" font-size="15" font-weight="400" fill="#F0F6FC">·  세법 조건(증여세 한도·유기정기금) 프롬프트 규칙화</text><text x="46" y="178" font-size="15" font-weight="400" fill="#F0F6FC">·  JSON 응답 고정으로 계산값 일관성 확보</text><text x="46" y="202" font-size="15" font-weight="400" fill="#F0F6FC">·  자녀·계좌 생성 Prisma 트랜잭션 처리</text><rect x="46" y="230" width="76" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.3"/><text x="84" y="247.32" font-size="12" font-weight="600" fill="#F0F6FC" text-anchor="middle">Next.js</text><rect x="130" y="230" width="98" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.3"/><text x="179" y="247.32" font-size="12" font-weight="600" fill="#F0F6FC" text-anchor="middle">TypeScript</text><rect x="236" y="230" width="69" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.3"/><text x="270.5" y="247.32" font-size="12" font-weight="600" fill="#F0F6FC" text-anchor="middle">Prisma</text><rect x="313" y="230" width="98" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.3"/><text x="362" y="247.32" font-size="12" font-weight="600" fill="#F0F6FC" text-anchor="middle">OpenAI API</text></g>
+</svg>
