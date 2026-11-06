@@ -31,20 +31,32 @@
       <rect width="840" height="230" fill="url(#wash)"/>
       <g filter="url(#orbBlur)">
         <circle cx="92" cy="12" r="152" fill="#bbaaff" opacity=".8">
-          <animate attributeName="cx" values="92;172;92" dur="18s" repeatCount="indefinite"/>
+          <animate attributeName="cx" values="92;150;92" dur="34s" repeatCount="indefinite"/>
+          <animate attributeName="cy" values="12;30;12" dur="41s" repeatCount="indefinite"/>
         </circle>
         <circle cx="756" cy="38" r="168" fill="#9ddfff" opacity=".74">
-          <animate attributeName="cy" values="38;88;38" dur="21s" repeatCount="indefinite"/>
+          <animate attributeName="cx" values="756;700;756" dur="39s" repeatCount="indefinite"/>
+          <animate attributeName="cy" values="38;82;38" dur="31s" repeatCount="indefinite"/>
         </circle>
         <circle cx="424" cy="252" r="188" fill="#ffc9e6" opacity=".67">
-          <animate attributeName="cx" values="424;530;424" dur="24s" repeatCount="indefinite"/>
+          <animate attributeName="cx" values="424;505;424" dur="43s" repeatCount="indefinite"/>
+          <animate attributeName="cy" values="252;226;252" dur="37s" repeatCount="indefinite"/>
         </circle>
       </g>
-      <ellipse cx="420" cy="24" rx="295" ry="42" fill="#fff" opacity=".34" filter="url(#soft)"/>
+      <ellipse cx="420" cy="24" rx="295" ry="42" fill="#fff" opacity=".34" filter="url(#soft)">
+        <animate attributeName="cx" values="350;490;350" dur="46s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".22;.38;.22" dur="29s" repeatCount="indefinite"/>
+      </ellipse>
       <rect x="15" y="15" width="810" height="200" rx="27" fill="#fff" fill-opacity=".16" stroke="#fff" stroke-opacity=".42"/>
       <rect x="19" y="19" width="802" height="192" rx="24" fill="url(#reflection)" fill-opacity=".22"/>
-      <path d="M22 68C180 4 315 76 464 36S690 12 818 52" fill="none" stroke="#fff" stroke-opacity=".58" stroke-width="2"/>
-      <path d="M18 185C170 136 302 214 466 166S690 126 824 164" fill="none" stroke="#fff" stroke-opacity=".34" stroke-width="9" filter="url(#soft)"/>
+      <g>
+        <path d="M22 68C180 4 315 76 464 36S690 12 818 52" fill="none" stroke="#fff" stroke-opacity=".58" stroke-width="2">
+          <animateTransform attributeName="transform" type="translate" values="-20 2;20 -2;-20 2" dur="38s" repeatCount="indefinite"/>
+        </path>
+        <path d="M18 185C170 136 302 214 466 166S690 126 824 164" fill="none" stroke="#fff" stroke-opacity=".34" stroke-width="9" filter="url(#soft)">
+          <animate attributeName="stroke-opacity" values=".18;.38;.18" dur="33s" repeatCount="indefinite"/>
+        </path>
+      </g>
       <text x="420" y="128" text-anchor="middle" fill="#17152d" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Helvetica Neue',Arial,sans-serif" font-size="82" font-weight="700" letter-spacing="-2.5">Bin0917</text>
       <text x="420" y="171" text-anchor="middle" fill="#5b5875" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Text','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="3.1">FINTECH · BACKEND · AI SECURITY</text>
     </g>
