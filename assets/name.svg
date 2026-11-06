@@ -1,74 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230">
-  <style>@font-face{font-family:P;font-weight:700;src:url(data:font/woff2;base64,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) format('woff2')}@font-face{font-family:P;font-weight:600;src:url(data:font/woff2;base64,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) format('woff2')} text{font-family:P,'Pretendard','Apple SD Gothic Neo','Segoe UI',sans-serif}</style>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230" role="img" aria-labelledby="title desc">
+  <title id="title">Bin0917</title>
+  <desc id="desc">Fintech, backend, and AI security profile banner in a liquid glass style.</desc>
   <defs>
-    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#EDE7FF"/><stop offset="0.5" stop-color="#E4F1FF"/><stop offset="1" stop-color="#F6E8FF"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f0ebff"/>
+      <stop offset=".48" stop-color="#e7f6ff"/>
+      <stop offset="1" stop-color="#fcecff"/>
     </linearGradient>
-    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="50"/></filter>
-    <clipPath id="panel"><rect width="840" height="230" rx="30"/></clipPath>
-    <g id="scene">
-      <rect x="-200" y="-200" width="1240" height="630" fill="url(#base)"/>
-      <g filter="url(#blur)">
-        <circle cx="120" cy="40" r="170" fill="#B7A6FF" opacity="0.85"/>
-        <circle cx="720" cy="70" r="160" fill="#9FD8FF" opacity="0.85"/>
-        <circle cx="430" cy="250" r="170" fill="#FFC4E6" opacity="0.75"/>
-        <circle cx="820" cy="230" r="120" fill="#D9B8FF" opacity="0.8"/>
-      </g>
-      <text x="420" y="128" text-anchor="middle" font-size="96" font-weight="700" letter-spacing="-2.5" fill="#1E1B3A">Bin0917</text>
-      <text x="420" y="172" text-anchor="middle" font-size="13" font-weight="600" letter-spacing="2.4" fill="#5E5A7E">FINTECH · BACKEND · AI SECURITY</text>
-    </g>
-
-    <!-- 색수차: R, G, B 채널을 나눠 서로 다른 방향으로 밀었다가 더한다 -->
-    <filter id="chroma" x="-10%" y="-10%" width="120%" height="120%" color-interpolation-filters="sRGB">
-      <feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1 0" result="r"/>
-      <feOffset in="r" dx="-5" dy="-2" result="r2"/>
-      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0  0 1 0 0 0  0 0 0 0 0  0 0 0 1 0" result="g"/>
-      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 1 0 0  0 0 0 1 0" result="b"/>
-      <feOffset in="b" dx="5" dy="2" result="b2"/>
-      <feComposite in="r2" in2="g" operator="arithmetic" k2="1" k3="1" result="rg"/>
-      <feComposite in="rg" in2="b2" operator="arithmetic" k2="1" k3="1"/>
-    </filter>
-    <!-- 가장자리 띠: 노이즈로 살짝 출렁이게 -->
-    <filter id="wobble" x="-10%" y="-10%" width="120%" height="120%">
-      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="1" seed="5" result="n"/>
-      <feDisplacementMap in="SourceGraphic" in2="n" scale="10" xChannelSelector="R" yChannelSelector="G"/>
-    </filter>
-    <filter id="soften" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3"/></filter>
-
-    <!-- 경계가 보이지 않게: 확대는 가운데에서 바깥으로 서서히 사라지고, 색 번짐 띠도 안팎이 흐리다 -->
-    <radialGradient id="fadeCenter">
-      <stop offset="0" stop-color="#fff"/><stop offset="0.45" stop-color="#fff"/><stop offset="0.8" stop-color="#000"/>
-    </radialGradient>
-    <radialGradient id="fadeRing">
-      <stop offset="0.45" stop-color="#000"/><stop offset="0.72" stop-color="#fff"/><stop offset="0.86" stop-color="#fff"/><stop offset="1" stop-color="#000"/>
-    </radialGradient>
-    <mask id="center" maskUnits="userSpaceOnUse" x="0" y="0" width="840" height="230"><circle cx="233" cy="123" r="74" fill="url(#fadeCenter)"><animate attributeName="cx" values="233;568;438;283;578;485;608;239;233" dur="40s" repeatCount="indefinite" calcMode="spline" keyTimes="0.000;0.125;0.250;0.375;0.500;0.625;0.750;0.875;1.000" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/><animate attributeName="cy" values="123;121;131;118;98;107;127;129;123" dur="40s" repeatCount="indefinite" calcMode="spline" keyTimes="0.000;0.125;0.250;0.375;0.500;0.625;0.750;0.875;1.000" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/></circle></mask>
-    <mask id="ring" maskUnits="userSpaceOnUse" x="0" y="0" width="840" height="230"><circle cx="233" cy="123" r="74" fill="url(#fadeRing)"><animate attributeName="cx" values="233;568;438;283;578;485;608;239;233" dur="40s" repeatCount="indefinite" calcMode="spline" keyTimes="0.000;0.125;0.250;0.375;0.500;0.625;0.750;0.875;1.000" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/><animate attributeName="cy" values="123;121;131;118;98;107;127;129;123" dur="40s" repeatCount="indefinite" calcMode="spline" keyTimes="0.000;0.125;0.250;0.375;0.500;0.625;0.750;0.875;1.000" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/></circle></mask>
-    <filter id="rimBlur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="1.2"/></filter>
-    <!-- 우윳빛 유리: 가운데는 옅고, 안쪽 테두리를 따라 빛이 차오르다가 바깥으로 흐려진다 -->
-    <radialGradient id="shade">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.16"/>
-      <stop offset="0.6" stop-color="#FFFFFF" stop-opacity="0.2"/>
-      <stop offset="0.86" stop-color="#FFFFFF" stop-opacity="0.42"/>
-      <stop offset="0.95" stop-color="#FFFFFF" stop-opacity="0.3"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
-    </radialGradient>
-    <!-- 아래쪽 안쪽에 아주 옅은 그늘 -->
-    <radialGradient id="under" cx="0.5" cy="0.85" r="0.6">
-      <stop offset="0" stop-color="#6C5CE7" stop-opacity="0.1"/>
-      <stop offset="1" stop-color="#6C5CE7" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="glassSoft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2"/></filter>
-    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity="1"/>
-      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.2"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.8"/>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#fff" stop-opacity=".72"/>
+      <stop offset=".38" stop-color="#fff" stop-opacity=".08"/>
+      <stop offset=".72" stop-color="#fff" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".72"/>
     </linearGradient>
-    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="12"/></filter>
+    <filter id="blur" x="-35%" y="-50%" width="170%" height="200%">
+      <feGaussianBlur stdDeviation="42"/>
+    </filter>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#6b5ec7" flood-opacity=".18"/>
+    </filter>
+    <clipPath id="panel"><rect width="840" height="230" rx="32"/></clipPath>
+    <clipPath id="shineClip"><rect x="1" y="1" width="838" height="228" rx="31"/></clipPath>
   </defs>
-
-  <g clip-path="url(#panel)">
-    <use href="#scene"/>
+  <g filter="url(#shadow)">
+    <g clip-path="url(#panel)">
+      <rect width="840" height="230" fill="url(#background)"/>
+      <g filter="url(#blur)">
+        <circle cx="92" cy="24" r="155" fill="#b9a7ff" opacity=".9">
+          <animate attributeName="cx" values="92;180;92" dur="16s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="735" cy="48" r="170" fill="#9bdcff" opacity=".86">
+          <animate attributeName="cy" values="48;100;48" dur="19s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="438" cy="256" r="176" fill="#ffc4e5" opacity=".78">
+          <animate attributeName="cx" values="438;540;438" dur="22s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="780" cy="218" r="120" fill="#d6b7ff" opacity=".72"/>
+      </g>
+      <ellipse cx="418" cy="30" rx="310" ry="48" fill="#fff" opacity=".2" filter="url(#blur)"/>
+      <rect x="16" y="16" width="808" height="198" rx="25" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-opacity=".46"/>
+      <rect x="20" y="20" width="800" height="190" rx="22" fill="none" stroke="url(#shine)" stroke-width="2"/>
+      <g clip-path="url(#shineClip)" opacity=".34">
+        <path d="M-80 80C160-25 250 150 460 55S720 10 920 90" fill="none" stroke="#fff" stroke-width="18"/>
+        <path d="M-60 190C170 110 260 230 500 145S730 105 900 165" fill="none" stroke="#fff" stroke-width="7"/>
+      </g>
+      <text x="420" y="128" text-anchor="middle" fill="#1e1b3a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="82" font-weight="800" letter-spacing="-3">Bin0917</text>
+      <text x="420" y="171" text-anchor="middle" fill="#5e5a7e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.8">FINTECH · BACKEND · AI SECURITY</text>
+    </g>
+    <rect x=".75" y=".75" width="838.5" height="228.5" rx="31.25" fill="none" stroke="#fff" stroke-opacity=".86" stroke-width="1.5"/>
   </g>
-  <rect x="0.5" y="0.5" width="839" height="229" rx="30" fill="none" stroke="#FFFFFF" stroke-opacity="0.8"/>
 </svg>
