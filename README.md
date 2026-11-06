@@ -15,10 +15,33 @@
 
 <h3 align="center">Tech Stack</h3>
 
-<p align="center"><img src="https://img.shields.io/badge/BACKEND-B7A6FF?style=for-the-badge" alt="Backend" />&nbsp;<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> <img src="https://img.shields.io/badge/apachekafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" /></p>
-<p align="center"><img src="https://img.shields.io/badge/FRONTEND-B7A6FF?style=for-the-badge" alt="Frontend" />&nbsp;<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" /></p>
-<p align="center"><img src="https://img.shields.io/badge/INFRA_%C2%B7_DB-B7A6FF?style=for-the-badge" alt="Infra · DB" />&nbsp;<img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></p>
-<p align="center"><img src="https://img.shields.io/badge/AI-B7A6FF?style=for-the-badge" alt="AI" />&nbsp;<img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /></p>
+<table width="100%">
+  <tr>
+    <th align="left" width="22%">Layer</th>
+    <th align="left" width="24%">Primary</th>
+    <th align="left">Tools &amp; Ecosystem</th>
+  </tr>
+  <tr>
+    <td><b>Backend</b><br/><sub>Reliable services</sub></td>
+    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=spring&amp;logoColor=white" alt="Spring" /></td>
+    <td><img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka" /> <img src="https://img.shields.io/badge/OpenFeign-6DB33F?style=flat-square&amp;logo=spring&amp;logoColor=white" alt="OpenFeign" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b><br/><sub>Product interfaces</sub></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&amp;logo=next.js&amp;logoColor=white" alt="Next.js" /></td>
+    <td><img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&amp;logo=prisma&amp;logoColor=white" alt="Prisma" /></td>
+  </tr>
+  <tr>
+    <td><b>Infra · DB</b><br/><sub>Ship &amp; scale</sub></td>
+    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" /></td>
+    <td><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&amp;logo=amazons3&amp;logoColor=white" alt="S3" /></td>
+  </tr>
+  <tr>
+    <td><b>AI · Security</b><br/><sub>Build with guardrails</sub></td>
+    <td><img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&amp;logo=python&amp;logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" /></td>
+    <td><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&amp;logo=claude&amp;logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Presidio-5B5FC7?style=flat-square&amp;logo=microsoft&amp;logoColor=white" alt="Presidio" /> <img src="https://img.shields.io/badge/NeMo_Guardrails-76B900?style=flat-square&amp;logo=nvidia&amp;logoColor=white" alt="NeMo Guardrails" /></td>
+  </tr>
+</table>
 
 <br/>
 
