@@ -1,129 +1,79 @@
-<h1 align="center">Bin0917</h1>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B5D4B,100:00A88F&height=150&text=Bin0917&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=Fintech%20%C2%B7%20AI%20Security&descSize=16&descAlignY=68" width="100%" />
 
 <p align="center">
-  <code>Fintech</code> · <code>Backend</code> · <code>AI Security</code>
+  금융 IT 서비스를 만듭니다.<br/>
+  요즘은 서비스에 들어간 LLM을 안전하게 쓰는 방법에 관심이 많습니다.
 </p>
 
 <p align="center">
-  <a href="mailto:leesd132@naver.com"><img src="https://img.shields.io/badge/leesd132%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="leesd132@naver.com"></a>
-  <a href="mailto:leesd365@gmail.com"><img src="https://img.shields.io/badge/leesd365%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="leesd365@gmail.com"></a>
-  <a href="https://solved.ac/profile/shfur132"><img src="https://img.shields.io/badge/solved.ac%20Gold%205-1F8ACB?style=flat-square" alt="solved.ac Gold 5"></a>
+  <a href="https://github.com/NVIDIA/garak/pulls?q=is%3Apr+author%3ABin0917+is%3Amerged"><img src="https://img.shields.io/badge/NVIDIA%2Fgarak-Contributor-00A88F?style=flat-square&logo=nvidia&logoColor=white" /></a>
+  <a href="mailto:leesd132@naver.com"><img src="https://img.shields.io/badge/leesd132@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" /></a>
+  <a href="mailto:leesd365@gmail.com"><img src="https://img.shields.io/badge/leesd365@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
-## About Me
+<h3 align="center">Tech Stack</h3>
 
-금융 IT 서비스를 만듭니다. 요즘은 서비스에 들어간 LLM을 안전하게 쓰는 방법에 관심이 많습니다.
+<p align="center"><sub><b>Backend</b></sub>&nbsp;&nbsp;<img height="30" src="https://skillicons.dev/icons?i=java,spring,kafka" /></p>
+<p align="center"><sub><b>Frontend</b></sub>&nbsp;&nbsp;<img height="30" src="https://skillicons.dev/icons?i=ts,nextjs" /></p>
+<p align="center"><sub><b>Infra · DB</b></sub>&nbsp;&nbsp;<img height="30" src="https://skillicons.dev/icons?i=mysql,aws,docker" /></p>
+<p align="center"><sub><b>AI</b></sub>&nbsp;&nbsp;<img height="30" src="https://skillicons.dev/icons?i=python" /> <img height="30" src="assets/claude.svg" alt="Claude" /></p>
 
-- **관심 분야**: 금융 서비스 백엔드, MSA, LLM 보안
-- **최근 작업**: LLM 챗봇 가드레일 구축과 garak 레드티밍 검증
-- **자격증**: SQLD, ADsP
+<br/>
 
----
+<h3 align="center">Projects</h3>
 
-## Projects
-
-<table>
+<table width="100%">
   <tr>
-    <th align="left">프로젝트<br/><img width="190" height="0"></th>
-    <th align="left">내용<br/><img width="400" height="0"></th>
-    <th align="left">기술 / 링크<br/><img width="210" height="0"></th>
+    <th width="30%" align="center" valign="middle">Project<br/><img width="220" height="0" /></th>
+    <th align="center" valign="middle">Highlights<br/><img width="560" height="0" /></th>
   </tr>
   <tr>
-    <td valign="top"><b>Pray for Hana</b><br/><sub>디지털하나로 8기 최종 · 2026.04</sub><br/><sub>우수상 (1등)</sub></td>
-    <td valign="top">시니어 종교인 헌금·연금 금융 서비스<br/>• MSA 분리, OpenFeign·Kafka 통신 분리<br/>• 보상 트랜잭션<br/>• 담당: ERD 설계, S3 업로드(FE·BE)</td>
-    <td valign="top"><code>Spring Boot</code> <code>Next.js</code> <code>Kafka</code> <code>AWS</code><br/><br/><a href="https://github.com/PrayForHanaro/Backend">Backend ↗</a> · <a href="https://github.com/PrayForHanaro/Frontend">Frontend ↗</a></td>
+    <td valign="top"><b>Pray for Hana</b><br/><sub>디지털하나로 8기 최종 · 2026.04</sub><br/><sub>우수상 (1등)</sub><br/><br/><a href="https://github.com/PrayForHanaro/Backend">Backend ↗</a> · <a href="https://github.com/PrayForHanaro/Frontend">Frontend ↗</a></td>
+    <td valign="top">시니어 종교인 헌금·연금 금융 서비스<br/><br/>• MSA 기반 서비스 분리<br/>• 동기(OpenFeign) · 비동기(Kafka) 통신 분리<br/>• 포인트 차감 실패 시 보상 트랜잭션<br/>• ERD 설계 · S3 업로드(FE·BE) 담당<br/><br/><code>Spring Boot</code> <code>Next.js</code> <code>Kafka</code> <code>AWS</code> <code>Docker</code></td>
   </tr>
   <tr>
-    <td valign="top"><b>PayCycle</b><br/><sub>외국인 근로자 임금 검증 챗봇 · 2026.09</sub><br/><sub>풀스택 · AI 보안 단독</sub></td>
-    <td valign="top">챗봇 API AI 보안 계층 구축<br/>• NeMo Guardrails + Presidio 보안 서버<br/>• garak 공격 707건 적용 전후 비교<br/>• LLM 도달률 <b>82.4% → 23.8%</b> (p &lt; 0.001)</td>
-    <td valign="top"><code>Spring Boot</code> <code>Python</code> <code>FastAPI</code><br/><br/><a href="https://github.com/Foreign-In-One/Backend/tree/feature/ai-guardrail-baseline">Backend ↗</a> · <a href="https://github.com/Foreign-In-One/Front/tree/feature/ai-chat-guardrail">Frontend ↗</a><br/><a href="https://github.com/Foreign-In-One/Backend/blob/feature/ai-guardrail-baseline/security-server/redteam/results/summary.md">레드티밍 결과 ↗</a></td>
+    <td valign="top"><b>PayCycle</b><br/><sub>외국인 근로자 임금 검증 챗봇 · 2026.09</sub><br/><sub>풀스택</sub><br/><br/><a href="https://github.com/Foreign-In-One/Backend/tree/feature/ai-guardrail-baseline">Backend ↗</a> · <a href="https://github.com/Foreign-In-One/Front/tree/feature/ai-chat-guardrail">Frontend ↗</a></td>
+    <td valign="top">챗봇 API 대상 AI 보안 계층 구축 (프로젝트 종료 후 단독 진행)<br/><br/>• OWASP LLM Top 10 · NIST AI RMF 기준 위협 정의<br/>• NeMo Guardrails + Presidio 보안 서버 분리<br/>• garak 공격 707건 적용 전후 비교<br/>• LLM 도달률 <b>82.4% → 23.8%</b> (p &lt; 0.001) · <a href="https://github.com/Foreign-In-One/Backend/blob/feature/ai-guardrail-baseline/security-server/redteam/results/summary.md">결과 ↗</a><br/><br/><code>Spring Boot</code> <code>Python</code> <code>FastAPI</code></td>
   </tr>
   <tr>
-    <td valign="top"><b>아이앞으로</b><br/><sub>디지털하나로 8기 1차 · 2026.01</sub><br/><sub>챗봇 · 화면 개발</sub></td>
-    <td valign="top">미성년 자녀 증여 플랜 서비스<br/>• 세법 조건(증여세 한도·유기정기금) 프롬프트 규칙화<br/>• 자녀·계좌 생성 Prisma 트랜잭션</td>
-    <td valign="top"><code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>OpenAI API</code><br/><br/><a href="https://github.com/F1-FamilyOne/foryouhana-mobileweb-ui">Frontend ↗</a></td>
+    <td valign="top"><b>아이앞으로</b><br/><sub>디지털하나로 8기 1차 · 2026.01</sub><br/><sub>챗봇 · 화면 개발</sub><br/><br/><a href="https://github.com/F1-FamilyOne/foryouhana-mobileweb-ui">Frontend ↗</a></td>
+    <td valign="top">미성년 자녀 증여 플랜 서비스<br/><br/>• 세법 조건(증여세 한도·유기정기금) 프롬프트 규칙화<br/>• JSON 응답 고정으로 계산값 일관성 확보<br/>• 자녀·계좌 생성 Prisma 트랜잭션 처리<br/><br/><code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>MySQL</code> <code>OpenAI API</code></td>
   </tr>
 </table>
 
----
+<br/>
 
-## Open Source
+<h3 align="center">Open Source</h3>
 
-<table>
+<table width="100%">
   <tr>
-    <th align="left">프로젝트<br/><img width="190" height="0"></th>
-    <th align="left">기여<br/><img width="500" height="0"></th>
-    <th align="left">상태<br/><img width="110" height="0"></th>
-  </tr>
-  <tr>
-    <td valign="top"><b><a href="https://github.com/NVIDIA/garak/pulls?q=is%3Apr+author%3ABin0917">NVIDIA/garak</a></b><br/><sub>LLM 취약점 스캐너</sub></td>
-    <td valign="top"><a href="https://github.com/NVIDIA/garak/pull/2305">#2305</a> promptinject 프롬프트 중복 생성 수정<br/><a href="https://github.com/NVIDIA/garak/pull/2326">#2326</a> 번역 프로브 공유 페이로드 오염 수정<br/><a href="https://github.com/NVIDIA/garak/pull/2362">#2362</a> 중복 페이로드 항목 제거</td>
-    <td valign="top">Merged<br/>Merged<br/>Open</td>
-  </tr>
-  <tr>
-    <td valign="top"><b><a href="https://github.com/data-privacy-stack/presidio">Presidio</a></b><br/><sub>개인정보 비식별화</sub></td>
-    <td valign="top"><a href="https://github.com/data-privacy-stack/presidio/pull/2341">#2341</a> 한국어 컨텍스트 매칭 옵션<br/><a href="https://github.com/Bin0917/presidio-ko">presidio-ko</a> 한국 전화번호·계좌번호 인식기 패키지</td>
-    <td valign="top">In review<br/>Package</td>
-  </tr>
-  <tr>
-    <td valign="top"><b><a href="https://github.com/NVIDIA-NeMo/Guardrails">NeMo Guardrails</a></b><br/><sub>LLM 가드레일</sub></td>
-    <td valign="top"><a href="https://github.com/NVIDIA-NeMo/Guardrails/issues/2415">#2415</a> Presidio 언어·spaCy 모델 설정 제안<br/><a href="https://github.com/NVIDIA-NeMo/Guardrails/issues/2429">#2429</a> 비 UTF-8 환경 설정 로딩 오류</td>
-    <td valign="top">Issue<br/>Issue</td>
-  </tr>
-  <tr>
-    <td valign="top"><b><a href="https://github.com/openai/openai-guardrails-python">OpenAI Guardrails</a></b><br/><sub>LLM 가드레일</sub></td>
-    <td valign="top"><a href="https://github.com/openai/openai-guardrails-python/issues/151">#151</a> 한·중 텍스트 PII 미탐지</td>
-    <td valign="top">Issue</td>
+    <td width="50%" align="center"><a href="https://github.com/NVIDIA/garak/pulls?q=is%3Apr+author%3ABin0917"><img src="assets/card-garak.svg" width="100%" alt="NVIDIA/garak Contributor: #2305, #2326 merged" /></a></td>
+    <td width="50%" align="center"><a href="https://github.com/data-privacy-stack/presidio/pull/2341"><img src="assets/card-presidio.svg" width="100%" alt="Presidio: #2341 in review" /></a></td>
   </tr>
 </table>
 
----
+<br/>
 
-## Skills
+<h3 align="center">Problem Solving · Certificates</h3>
 
-<table>
-  <tr>
-    <th align="left">분야<br/><img width="190" height="0"></th>
-    <th align="left">기술<br/><img width="610" height="0"></th>
-  </tr>
-  <tr>
-    <td valign="top"><b>Backend</b></td>
-    <td valign="top"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Frontend</b></td>
-    <td valign="top"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Infra</b></td>
-    <td valign="top"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>AI</b></td>
-    <td valign="top"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude"></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://solved.ac/profile/shfur132"><img height="130" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=shfur132" alt="solved.ac shfur132" /></a>
+</p>
+<p align="center">
+  <b>SQLD</b> · SQL 개발자 &nbsp;|&nbsp; <b>ADsP</b> · 데이터분석 준전문가
+</p>
 
----
+<br/>
 
-## Awards
+<h3 align="center">Awards 🏆</h3>
 
-<table>
-  <tr>
-    <th align="left">대회<br/><img width="190" height="0"></th>
-    <th align="left">결과<br/><img width="400" height="0"></th>
-    <th align="left">프로젝트<br/><img width="210" height="0"></th>
-  </tr>
-  <tr>
-    <td valign="top"><b>디지털하나로 8기</b><br/><sub>최종 프로젝트 · 2026.04</sub></td>
-    <td valign="top">우수상 (1등)</td>
-    <td valign="top">Pray for Hana</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>멋쟁이사자처럼 대학 10기</b><br/><sub>단풍톤</sub></td>
-    <td valign="top">최우수상 (2등)</td>
-    <td valign="top">Dear Santa</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/1ST-00A88F?style=flat-square" /> &nbsp;<b>디지털하나로 8기 최종 프로젝트</b> · 우수상<br/>
+  <sub>Pray for Hana · 2026.04</sub>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/2ND-0B5D4B?style=flat-square" /> &nbsp;<b>멋쟁이사자처럼 대학 10기 단풍톤</b> · 최우수상<br/>
+  <sub>Dear Santa</sub>
+</p>
