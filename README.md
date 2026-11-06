@@ -16,20 +16,10 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <sub><b>Backend</b></sub><br/>
-  <img height="40" src="https://skillicons.dev/icons?i=java,spring,kafka" />
+  <sub><b>Backend</b></sub>&nbsp; <img height="40" src="https://skillicons.dev/icons?i=java,spring,kafka" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub><b>Frontend</b></sub>&nbsp; <img height="40" src="https://skillicons.dev/icons?i=ts,nextjs" />
 </p>
 <p align="center">
-  <sub><b>Frontend</b></sub><br/>
-  <img height="40" src="https://skillicons.dev/icons?i=ts,nextjs" />
-</p>
-<p align="center">
-  <sub><b>Infra · DB</b></sub><br/>
-  <img height="40" src="https://skillicons.dev/icons?i=mysql,aws,docker" />
-</p>
-<p align="center">
-  <sub><b>AI</b></sub><br/>
-  <img height="40" src="https://skillicons.dev/icons?i=python" /> <img height="40" src="assets/claude.svg" alt="Claude" />
+  <sub><b>Infra · DB</b></sub>&nbsp; <img height="40" src="https://skillicons.dev/icons?i=mysql,aws,docker" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub><b>AI</b></sub>&nbsp; <img height="40" src="https://skillicons.dev/icons?i=python" /> <img height="40" src="assets/claude.svg" alt="Claude" />
 </p>
 
 <br/>
