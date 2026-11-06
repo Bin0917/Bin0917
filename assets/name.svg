@@ -21,17 +21,12 @@
     <filter id="orbBlur" x="-35%" y="-50%" width="170%" height="200%">
       <feGaussianBlur stdDeviation="44"/>
     </filter>
-    <filter id="glass" x="-15%" y="-25%" width="130%" height="160%">
-      <feTurbulence type="fractalNoise" baseFrequency=".012" numOctaves="2" seed="7" result="noise"/>
-      <feDisplacementMap in="SourceGraphic" in2="noise" scale="4" xChannelSelector="R" yChannelSelector="G"/>
-      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#6b5ec7" flood-opacity=".17"/>
-    </filter>
     <filter id="soft" x="-20%" y="-40%" width="140%" height="180%">
       <feGaussianBlur stdDeviation="9"/>
     </filter>
     <clipPath id="panel"><rect x="1" y="1" width="838" height="228" rx="32"/></clipPath>
   </defs>
-  <g filter="url(#glass)">
+  <g>
     <g clip-path="url(#panel)">
       <rect width="840" height="230" fill="url(#wash)"/>
       <g filter="url(#orbBlur)">
